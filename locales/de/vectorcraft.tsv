@@ -104,7 +104,7 @@
 	4-Up	4 nebeneinander
 	45° Angles	45°-Winkel
 	4K Cinema	4K Kino
-	4up	4 nebeneinander
+	4up	4 pro Seite
 	5 x 5 Average	5 x 5 Durchschnitt
 	6 Colors	6 Farben
 	60° Angles	60°-Winkel
@@ -196,8 +196,8 @@ swatch	[Registration]	[Passermarken]
 @msg	a bitmap is too large to read	eine Bitmap ist zu groß, um gelesen zu werden
 @msg	A browser with WebGPU or WebGL2 is required.	Ein Browser mit WebGPU oder WebGL2 ist erforderlich.
 @msg	a calculation has no result, as in a division by zero	eine Berechnung hat kein Ergebnis, etwa bei einer Division durch null
-@msg	a clipping path can't be attached to a path	ein Beschneidungspfad kann nicht an einen Pfad angehängt werden
-@msg	a clipping path can't take objects	ein Beschneidungspfad kann keine Objekte aufnehmen
+@msg	a clipping path can't be attached to a path	ein Schnittpfad kann nicht an einen Pfad angehängt werden
+@msg	a clipping path can't take objects	ein Schnittpfad kann keine Objekte aufnehmen
 @msg	a colour index is 0 to {_1}, not {n}	ein Farbindex liegt zwischen 0 und {_1}, nicht {n}
 @msg	a colour is an index, #rrggbb or a preset name, not {v}	eine Farbe ist ein Index, #rrggbb oder ein Vorgabename, nicht {v}
 @msg	a document needs at least one artboard	ein Dokument braucht mindestens eine Zeichenfläche
@@ -3715,11 +3715,11 @@ swatch	Rust	Rost
 	Snapping	Ausrichten
 	Snapping Tolerance	Einrasttoleranz
 	Social	Soziale Medien
-	Social Landscape Post 1200×630	Beitrag quer 1200×630
-	Social Portrait Post 1080×1350	Beitrag hochkant 1080×1350
+	Social Landscape Post 1200×630	Social-Media-Beitrag quer 1200×630
+	Social Portrait Post 1080×1350	Social-Media-Beitrag hochkant 1080×1350
 	Social Square Post 1080×1080	Quadratischer Social-Media-Beitrag 1080×1080
-	Social Story 1080×1920	Story 1080×1920
-	Social Tall Post 1000×1500	Beitrag hoch 1000×1500
+	Social Story 1080×1920	Social-Media-Story 1080×1920
+	Social Tall Post 1000×1500	Social-Media-Beitrag hoch 1000×1500
 effect	Soft	Weich
 	Soft Mix	Weiche Mischung
 	Solid	Gefüllt
