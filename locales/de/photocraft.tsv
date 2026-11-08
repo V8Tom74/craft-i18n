@@ -209,8 +209,8 @@ shape	Appearance	Erscheinungsbild
 	Arc Lower	Bogen unten
 	Arc Upper	Bogen oben
 	Arch	Gewölbe
-	Are you sure you want to quit?	Möchtest du das Programm wirklich beenden?
-	Are you sure?	Bist du sicher?
+	Are you sure you want to quit?	Möchten Sie das Programm wirklich beenden?
+	Are you sure?	Sind Sie sicher?
 	Around Center	Um die Mitte
 	Arrangement	Anordnung
 	Art & Illustration	Kunst & Illustration
@@ -964,7 +964,7 @@ cameraRaw	Detail	Details
 	Divide…	Unterteilen…
 	Do you want to save the changes you made to “{name}” before closing?	Möchtest du die an „{name}“ vorgenommenen Änderungen vor dem Schließen speichern?
 	Do you want to save the changes you made to “{name}” before quitting?	Möchtest du die an „{name}“ vorgenommenen Änderungen vor dem Beenden speichern?
-	Do you want to save you made to “{name}” before quitting?	Möchtest du die Änderungen an „{name}“ vor dem Beenden speichern?
+	Do you want to save you made to “{name}” before quitting?	Möchten Sie die Änderungen an „{name}“ vor dem Beenden speichern?
 	Doc: {flat}/{layered}	Dok: {flat}/{layered}
 	Doc: {w} × {h} px	Dok: {w} × {h} px
 	Document Bounds	Dokumentgrenzen
@@ -2563,7 +2563,7 @@ cameraRaw	Saturation	Sättigung
 	Save these settings as a Camera Raw .xmp file	Diese Einstellungen als Camera-Raw-.xmp-Datei speichern
 	Save these shortcuts as a .kys file	Diese Kurzbefehle als .kys-Datei speichern
 	Save these shortcuts as a new set	Diese Kurzbefehle als neuen Satz speichern
-	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	Speichere deine Arbeit und starte PhotoCraft neu, um die GPU-Beschleunigung erneut zu versuchen. Für diese Sitzung bleibt das CPU-Rendering aktiv.
+	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	Speichern Sie Ihre Arbeit und starten Sie PhotoCraft neu, um die GPU-Beschleunigung erneut zu versuchen. Für diese Sitzung bleibt das CPU-Rendering aktiv.
 	Saved a copy as {path}	Kopie als {path} gespeichert
 @plural	Saved for Web: {n} file|Saved for Web: {n} files	Für Web gespeichert: {n} Datei|Für Web gespeichert: {n} Dateien
 	Saved Multichannel	Mehrkanal gespeichert
@@ -2573,7 +2573,7 @@ cameraRaw	Saturation	Sättigung
 	Saving brush presets… Keep this tab open until saving finishes.	Pinselvorgaben werden gespeichert… Lass diesen Tab geöffnet, bis das Speichern abgeschlossen ist.
 	Saving {name}	Speichere {name}
 	Saving {percent}	Speichern {percent}
-	Saving…	Speichere…
+	Saving…	Wird gespeichert…
 	Sawtooth 1	Sägezahn 1
 	Scale Effects	Effekte skalieren
 	Scale Effects…	Effekte skalieren…
@@ -3295,7 +3295,7 @@ cameraRaw	Yellow	Gelb
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: Der Dateipfad enthält ungültige Zeichen. Benenne die Datei um und öffne sie erneut.
 	{set} (modified)	{set} (geändert)
 	{shortcut} assigned.	{shortcut} zugewiesen.
-	{shortcut} is already in use by {commands} and will be removed from it when you click OK.	{shortcut} wird bereits von {commands} verwendet und dort entfernt, wenn du auf OK klickst.
+	{shortcut} is already in use by {commands} and will be removed from it when you click OK.	{shortcut} wird bereits von {commands} verwendet und dort entfernt, wenn Sie auf OK klicken.
 	{shortcut} is reserved by the system and can't be assigned.	{shortcut} ist vom System reserviert und kann nicht zugewiesen werden.
 	{size} (was {old})	{size} (vorher {old})
 @plural	{warning} (+{n} more brush preset warning)|{warning} (+{n} more brush preset warnings)	{warning} (+{n} weitere Pinselvorgaben-Warnung)|{warning} (+{n} weitere Pinselvorgaben-Warnungen)

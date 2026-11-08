@@ -2324,7 +2324,7 @@ numerals	Arabic	Arabisch
 	Braces with Separator	Geschweifte Klammern mit Trennzeichen
 	Brackets	Klammern
 	Brackets with Separators	Klammern mit Trennzeichen
-	Brighter +20%	Heller +20%
+	Brighter +20%	Heller +20 %
 	Brightness, contrast and sharpness	Helligkeit, Kontrast und Schärfe
 	Built-in Heading styles	Integrierte Überschrift-Formatvorlagen
 	Capitalize the first word of a sentence	Erstes Wort eines Satzes großschreiben
@@ -2391,7 +2391,7 @@ numerals	Context	Kontextabhängig
 	Current - Linear	Aktuelle – Linear
 	Current - Professional	Aktuelle – Professionell
 	Current Document	Aktuelles Dokument
-	Darker −20%	Dunkler −20%
+	Darker −20%	Dunkler −20 %
 	Default Paragraph Font	Absatz-Standardschriftart
 	Delta Equal To	Delta gleich
 	Delta over arrow	Delta über Pfeil
@@ -2450,19 +2450,19 @@ numerals	Context	Kontextabhängig
 	Footnote Text	Fußnotentext
 	For which item:	Für welches Element:
 	Frames and effects	Rahmen und Effekte
-	Full Saturation 100%	Volle Sättigung 100%
+	Full Saturation 100%	Volle Sättigung 100 %
 	Get the list of languages again	Liste der Sprachen erneut abrufen
 	Getting the list of languages…	Liste der Sprachen wird abgerufen…
 	GOST (name sort)	GOST (nach Name sortiert)
 	GOST (title sort)	GOST (nach Titel sortiert)
 	Grave	Gravis
-	Gray 0%	Grau 0%
+	Gray 0%	Grau 0 %
 	Greek Letters	Griechische Buchstaben
 	Grid Table 1 Light	Gitternetztabelle 1 hell
-	Grid Table 4 – Blue	Gitternetztabelle 4 – Blau
-	Grid Table 4 – Green	Gitternetztabelle 4 – Grün
-	Grid Table 4 – Orange	Gitternetztabelle 4 – Orange
-	Grid Table 4 – Purple	Gitternetztabelle 4 – Lila
+	Grid Table 4 – Blue	Gittertabelle 4 – Blau
+	Grid Table 4 – Green	Gittertabelle 4 – Grün
+	Grid Table 4 – Orange	Gittertabelle 4 – Orange
+	Grid Table 4 – Purple	Gittertabelle 4 – Lila
 	Grouping Character Above	Gruppierungszeichen oben
 	Grouping Character Below	Gruppierungszeichen unten
 	Hat	Dach
@@ -2524,7 +2524,7 @@ numerals	Context	Kontextabhängig
 	Leftwards Arrow Above	Pfeil nach links oben
 	Leftwards Harpoon Above	Harpune nach links oben
 	Legal   8.50" × 14.00"	Legal   8,50" × 14,00"
-	Less Contrast −20%	Weniger Kontrast −20%
+	Less Contrast −20%	Weniger Kontrast −20 %
 template	Letter	Brief
 	Letter   8.50" × 11.00"	Letter   8,50" × 11,00"
 	Letter-Like Symbols	Buchstabenähnliche Symbole
@@ -2561,10 +2561,10 @@ template	Letter	Brief
 	Measured By	Gemessen durch
 	Midline Dots	Punkte auf der Mittellinie
 	Minus Equal	Minus-Gleich
-	More Contrast +20%	Mehr Kontrast +20%
+	More Contrast +20%	Mehr Kontrast +20 %
 	More options	Weitere Optionen
 	Move Pane: {title}	Bereich verschieben: {title}
-	Muted 50%	Gedämpft 50%
+	Muted 50%	Gedämpft 50 %
 	Natural Logarithm	Natürlicher Logarithmus
 	Negated Relations	Negierte Relationen
 	No items to show.	Keine Elemente vorhanden.
@@ -2745,7 +2745,7 @@ preview	Title	Titel
 	Vertical Bars	Senkrechte Striche
 	Vertical Dots	Senkrechte Punkte
 	View and edit the document's custom properties.	Benutzerdefinierte Eigenschaften des Dokuments anzeigen und bearbeiten.
-	Vivid 200%	Lebhaft 200%
+	Vivid 200%	Lebhaft 200 %
 	Volume Integral	Volumenintegral
 	Volume Integral with Limits	Volumenintegral mit Grenzen
 	Volume Integral with Stacked Limits	Volumenintegral mit gestapelten Grenzen
